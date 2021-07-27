@@ -3,6 +3,7 @@
 以下两条命令配置全局变量
 
 `git config --global user.name "yourName"`
+
 `git config --global user.email "your_email@example.com"`
 
 ### Git密钥配置
@@ -22,7 +23,7 @@
 把生产的pub ssh密钥填到github或者gitlab的ssh设置里就ok了
 
 
-###一些基础git命令
+### 一些基础git命令
 
 1. git clone
 
@@ -35,8 +36,12 @@
 1. git push
 
 `git add .`
+
 `git commit -am "备注"`
+
 `git pull`
+
 `git push`
+
 
 > git pull其实可有可无，但是加上它是好习惯
