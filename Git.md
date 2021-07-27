@@ -6,13 +6,15 @@
 
 `git config --global user.name "yourName"`
 
-`git config --global user.email "your_email@example.com"`
-
-
-
-
+`git config --global user.email "your_email@example.com"`  
 
   
+
+  
+
+  
+
+
 
 ***
 
@@ -30,13 +32,15 @@
 
 > 能看到密钥是rsa开头，邮箱结尾的
 
-把生产的pub ssh密钥填到github或者gitlab的ssh设置里就ok了
-
-
-
-
+把生产的pub ssh密钥填到github或者gitlab的ssh设置里就ok了  
 
   
+
+  
+
+  
+
+
 
 ***
 
