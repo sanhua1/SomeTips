@@ -1,14 +1,18 @@
-# Git全局配置
+## Git全局配置
 
 以下两条命令配置全局变量
 
 `git config --global user.name "yourName"`
 
-`git config --global user.email "your_email@example.com"`     
+`git config --global user.email "your_email@example.com"`  
 
 
 
-# Git密钥配置
+<br>
+
+
+
+## Git密钥配置
 
 * 生成SSH
 
@@ -26,7 +30,11 @@
 
 
 
-# Git基础命令
+<br>
+
+
+
+## Git基础命令
 
 * git clone
 
