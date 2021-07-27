@@ -1,24 +1,14 @@
-***
-
-### Git全局配置
+# Git全局配置
 
 以下两条命令配置全局变量
 
 `git config --global user.name "yourName"`
 
-`git config --global user.email "your_email@example.com"`  
-
-  
-
-  
-
-  
+`git config --global user.email "your_email@example.com"`     
 
 
 
-***
-
-### Git密钥配置
+# Git密钥配置
 
 * 生成SSH
 
@@ -34,17 +24,9 @@
 
 把生产的pub ssh密钥填到github或者gitlab的ssh设置里就ok了  
 
-  
-
-  
-
-  
 
 
-
-***
-
-### Git基础命令
+# Git基础命令
 
 * git clone
 
@@ -66,4 +48,3 @@
 
 
 > git pull其实可有可无，但是加上它是好习惯
-
