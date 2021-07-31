@@ -55,4 +55,11 @@
 `git push`
 
 
-> git pull其实可有可无，但是加上它是好习惯
+> 在git push的时候，git pull其实可有可无，但是加上它是好习惯
+
+* git pull
+
+> 用于拉取线上仓库的数据，和clone不一样，clone是完整clone一个新的，git pull是用来同步本地和云端，云端的内容发生改变后，让本地的内容和云端一样
+
+`git pull`
+
