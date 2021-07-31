@@ -8,19 +8,16 @@
   LocalDateTime now = LocalDateTime.now();` 
   ```
 
-  在不少方法里都是直接调用 `LocalDateTime.now()`  
-
-    
-
+  在不少方法里都是直接调用 `LocalDateTime.now()`
+  
+  <br>
 * gmt格式的字符串转化为LocalDateTime对象
 
   ```java
   String thatDay = "2021-5-10T18:01:22";
   LocalDateTime time = LocalDateTime.parse(thatDay);
   ```
-
-    
-
+  <br>
 * 非gmt格式的字符串转化为LocaDateTime对象
 
   ```java
