@@ -24,9 +24,9 @@
 
 `cat ~/.ssh/id_rsa.pub`
 
-> 能看到密钥是rsa开头，邮箱结尾的
+> 能看到密钥是ssh-rsa开头，邮箱结尾的
 
-把生产的pub ssh密钥填到github或者gitlab的ssh设置里就ok了  
+把生成的pub ssh密钥填到github或者gitlab的ssh设置里就ok了  
 
 
 
